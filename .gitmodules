@@ -1,0 +1,6 @@
+[submodule "OPL Game Installer/libcurl"]
+	path = OPL Game Installer/libcurl
+	url = https://github.com/curl/curl
+[submodule "OPL Game Installer/lib9660"]
+	path = OPL Game Installer/lib9660
+	url = https://github.com/erincandescent/lib9660

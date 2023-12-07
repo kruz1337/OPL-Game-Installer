@@ -4,7 +4,7 @@ You cannot write more than 4GB of data to a FAT32 disc, so you can't easily inst
 #### What is Virtual Memory Card (VMC)?
 Virtual Memory Card allows you to save the game on the disc you use in games without using an memory card.
 
-![](https://img.shields.io/badge/language-c++-e76089?style=plastic) ![](https://img.shields.io/badge/license-GNU-green?style=plastic) ![](https://img.shields.io/badge/arch-x64%20%7C%20x86-d9654f?style=plastic) ![](https://img.shields.io/badge/config-Debug%20%7C%20Release-c0c0c0?style=plastic)
+![](https://img.shields.io/badge/language-c++-e76089?style=plastic) ![](https://img.shields.io/badge/license-MIT-green?style=plastic) ![](https://img.shields.io/badge/arch-x64%20%7C%20x86-d9654f?style=plastic) ![](https://img.shields.io/badge/config-Debug%20%7C%20Release-c0c0c0?style=plastic)
 
 ![Image of RequestX International Developer Group on Discord](https://raw.githubusercontent.com/kruz1337/OPL-Game-Installer/main/thumbnail.png)
 

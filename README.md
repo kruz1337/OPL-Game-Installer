@@ -6,7 +6,7 @@ Virtual Memory Card allows you to save the game on the disc you use in games wit
 
 ![](https://img.shields.io/badge/language-c++-e76089?style=plastic) ![](https://img.shields.io/badge/license-GNU-green?style=plastic) ![](https://img.shields.io/badge/arch-x64%20%7C%20x86-d9654f?style=plastic) ![](https://img.shields.io/badge/config-Debug%20%7C%20Release-c0c0c0?style=plastic)
 
-![Image of RequestX International Developer Group on Discord](https://raw.githubusercontent.com/kruz1337/OPL-Game-Installer/main/thumbnail.png?token=GHSAT0AAAAAACLHJHX2ZRO2DKK4VHJSVUEAZLQ6XQQ)
+![Image of RequestX International Developer Group on Discord](https://raw.githubusercontent.com/kruz1337/OPL-Game-Installer/main/thumbnail.png)
 
 ## How to build OPL-Game-Installer with Curl?
 * If you don't know how do you do this go download released version.

@@ -1,5 +1,5 @@
 # OPL-Game-Installer
-You cannot write more than 4GB of data to a FAT32 disc, so you can't easily install a game on a disc. This repository allows you to do this easily, it also creates a [Virtual Memory](https://en.wikipedia.org/wiki/Virtual_memory) Card of the desired size for the game and downloads the images of the game from the server.
+You can't write more than 4GB of data to a FAT32 disc, so you can't easily install a game on a disc. This repository allows you to do this easily, it also creates a [Virtual Memory](https://en.wikipedia.org/wiki/Virtual_memory) Card of the desired size for the game and downloads the images of the game from the server.
 
 #### What is Virtual Memory Card (VMC)?
 Virtual Memory Card allows you to save the game on the disc you use in games without using an memory card.
